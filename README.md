@@ -56,7 +56,7 @@ These assumptions were assessed visually using scatterplots and residual diagnos
 
 The estimated slope for 2019 was:
 
-- **β̂₁ = 0.33**
+- **β^ = 0.33**
 - **95% confidence interval:** (0.25, 0.41)
 - **p < 0.001**
 
@@ -75,7 +75,7 @@ On average, a one percentage-point increase in poverty prevalence is associated 
 The analysis includes:
 
 - A scatterplot of poverty prevalence versus diabetes prevalence with the estimated conditional mean and 95% confidence band
-- A choropleth map showing geographic variation in diabetes prevalence across U.S. states
+- Two choropleth maps showing geographic variation in diabetes and poverty prevalence across U.S. states from 2019. 
 
 These visualizations support the plausibility of a linear mean relationship and highlight regional health disparities.
 
