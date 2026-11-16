@@ -1,5 +1,10 @@
 # Poverty and Diabetes Prevalence: An Inference-Based Analysis
 
+**Key result:** across U.S. states, each 1-percentage-point increase in poverty prevalence is associated with a **0.33-point increase in adult diabetes prevalence** (95% CI 0.25–0.41, p < 0.001), and the relationship held again in 2021.
+
+![Poverty vs. diabetes prevalence by state, 2019](cdi-project/figures/scatter_fit_ci_2019.png)
+
+
 ## Overview
 
 This project examines the association between state-level poverty prevalence and diabetes prevalence in the United States using data from the **CDC Chronic Disease Indicators (CDI)** dataset. The analysis focuses on **statistical inference**, modeling how average diabetes prevalence varies with poverty prevalence across states, rather than predicting individual outcomes.
@@ -79,6 +84,10 @@ The analysis includes:
 
 These visualizations support the plausibility of a linear mean relationship and highlight regional health disparities.
 
+| Diabetes prevalence, 2019 | Poverty prevalence, 2019 |
+| --- | --- |
+| ![](cdi-project/figures/map_diabetes_2019.png) | ![](cdi-project/figures/map_poverty_2019.png) |
+
 ---
 
 ## Interpretation and Scope
@@ -111,4 +120,4 @@ Potential extensions include:
 
 ## Author
 
-*Donjhai "DJ" Holland*
+**Donjhai "DJ" Holland** · [Portfolio](https://donjhaih.github.io) · [LinkedIn](https://www.linkedin.com/in/donjhai-holland)
